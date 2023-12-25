@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Projects C++\MyFirstProj\MyFirstProj\MyForm.h(526,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MyFirstProj.vcxproj -> C:\Projects C++\MyFirstProj\x64\Debug\MyFirstProj.exe

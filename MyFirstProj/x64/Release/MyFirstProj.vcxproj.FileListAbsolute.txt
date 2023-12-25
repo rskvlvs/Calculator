@@ -1,0 +1,4 @@
+C:\Projects C++\MyFirstProj\MyFirstProj\x64\Release\MyFirstProj.vcxproj.AssemblyReference.cache
+C:\Projects C++\MyFirstProj\MyFirstProj\x64\Release\MyFirstProj.vcxproj.SuggestedBindingRedirects.cache
+C:\Projects C++\MyFirstProj\MyFirstProj\x64\Release\MyFirstProj.MyForm.resources
+C:\Projects C++\MyFirstProj\MyFirstProj\x64\Release\MyFirstProj.vcxproj.GenerateResource.cache
